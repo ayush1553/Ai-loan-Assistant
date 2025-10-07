@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Loan Assistant</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header>AI Loan Assistant</header>
+    <div id="chat" class="chat"></div>
+    <form id="uploadForm" style="display:none; padding:8px; background:#fff; border-top:1px solid #eee" enctype="multipart/form-data">
+      <input id="slip" name="slip" type="file" accept="application/pdf,image/*" />
+      <button type="submit">Upload Salary Slip</button>
+    </form>
+    <div class="input-row">
+      <input id="input" type="text" placeholder="Type your message..." />
+      <button id="send">Send</button>
+    </div>
+  </div>
+
+  <script src="main.js"></script>
+  <script>
+    // Prefill example identity (can be edited by user from chat)
+    window.__context = { name: 'Ayush Prajapati', city: 'Varanasi', phone: '9876543210' };
+  </script>
+</body>
+</html>
+
+
