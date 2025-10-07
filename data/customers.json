@@ -1,0 +1,13 @@
+[
+  { "id": "c1", "name": "Ayush Prajapati", "city": "Varanasi", "phone": "9876543210", "creditScore": 750, "preApprovedLimit": 100000, "interestRate": 11.0 },
+  { "id": "c2", "name": "Riya Sharma", "city": "Delhi", "phone": "9811122233", "creditScore": 720, "preApprovedLimit": 150000, "interestRate": 11.2 },
+  { "id": "c3", "name": "Aman Verma", "city": "Mumbai", "phone": "9822233344", "creditScore": 680, "preApprovedLimit": 80000, "interestRate": 12.4 },
+  { "id": "c4", "name": "Neha Gupta", "city": "Lucknow", "phone": "9833344455", "creditScore": 710, "preApprovedLimit": 120000, "interestRate": 11.4 },
+  { "id": "c5", "name": "Rohit Singh", "city": "Jaipur", "phone": "9844455566", "creditScore": 760, "preApprovedLimit": 200000, "interestRate": 10.8 },
+  { "id": "c6", "name": "Priya Patel", "city": "Ahmedabad", "phone": "9855566677", "creditScore": 735, "preApprovedLimit": 90000, "interestRate": 11.6 },
+  { "id": "c7", "name": "Vikas Kumar", "city": "Bengaluru", "phone": "9866677788", "creditScore": 705, "preApprovedLimit": 110000, "interestRate": 11.9 },
+  { "id": "c8", "name": "Sana Khan", "city": "Hyderabad", "phone": "9877788899", "creditScore": 780, "preApprovedLimit": 250000, "interestRate": 10.5 },
+  { "id": "c9", "name": "Karan Mehta", "city": "Pune", "phone": "9888899900", "creditScore": 695, "preApprovedLimit": 70000, "interestRate": 12.8 },
+  { "id": "c10", "name": "Anjali Das", "city": "Kolkata", "phone": "9899900011", "creditScore": 745, "preApprovedLimit": 130000, "interestRate": 11.1 }
+]
+
